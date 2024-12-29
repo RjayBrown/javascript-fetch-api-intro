@@ -5,8 +5,8 @@
   <a href="">
     <img src="screenshots/project-logo.png" alt="project-name" height="64">
   </a>
-<h1 align="center">HTML + CSS & Client-Side JavaScript<br> Using Fetch with Public API's & Handling JSON Data</h1>
-<h4>Learn how to fetch can be used to get data from public API's and build dynamic web apps</h4>
+<h1 align="center">HTML + CSS + JavaScript <br>(Client-Side)<br> Using Fetch with JSON Data</h1>
+<h4>Learn how to fetch can be used to handle data from public API's and build dynamic web apps</h4>
 </div>
 <div align="center">
   <h3>
