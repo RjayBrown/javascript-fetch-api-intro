@@ -87,7 +87,7 @@ In the example above, the API sends a response object, and it is stored in the '
 USING FETCH
 -----------
 
-Next, we format the returned data using the .then() method, which accepts a response object (see res above) as an argument. This resposne object contains data and several methods we can use to format the data.
+Next, we format the returned data using the .then() method, which accepts a response object (see res above) as an argument. This response object contains data and several methods we can use to format the data.
 
 For this example, we will be using JavaScript Object Notation or JSON, a widely used method for handling data in the browser.
 
@@ -132,7 +132,7 @@ function getSchools() {
 	const value = input.value
 	const url = `https://api.data.gov/ed/collegescorecard/v1/schools?api_key=fdBYetUZF2CVd84OoqrvdYSCZar2Zdxxb8HkZyAy&school.name=${value}`
 
-	// Check if user provided an input
+	// Check if user provided a valid input
 	if (!value) {
 		console.log('Display an error message on the page')
 	} else {
